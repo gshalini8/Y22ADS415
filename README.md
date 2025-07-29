@@ -61,7 +61,7 @@ This repository showcases my academic lab work, technical skills, certifications
 
 ## 📫 Contact
 
-- **Email**: gshaliniads@gmail.com  
+- **Email**: gshalinishalini8@gmail.com  
 - **GitHub**: [github.com/gshalini8](https://github.com/gshalini8)
 
 ---
